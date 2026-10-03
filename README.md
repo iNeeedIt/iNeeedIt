@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00AA&center=true&vCenter=true&width=500&lines=low-level+%7C+systems+%7C+embedded;understand+to+better+protect">
+  <code>low-level</code> · <code>systems</code> · <code>embedded</code>
+  <br>
+  <i>// understand to better protect</i>
 </p>
 
 <h3 align="center">— Tech Stack —</h3>
