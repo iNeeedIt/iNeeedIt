@@ -9,19 +9,14 @@
 <h3 align="center">— Tech Stack —</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-FF00AA?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-0A1560?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/ASSEMBLY-0A1560?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PYTHON-FF00AA?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SHELL-0A1560?style=for-the-badge&logo=gnubash&logoColor=white">
-  <img src="https://img.shields.io/badge/LINUX-0A1560?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/VIM-FF00AA?style=for-the-badge&logo=vim&logoColor=white">
   <img src="https://img.shields.io/badge/REACT-0A1560?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/NODE.JS-0A1560?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/POSTGRESQL-FF00AA?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/GIT-0A1560?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-FF00AA?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/PYTHON-0A1560?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-FF00AA?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-0A1560?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/LUA-FF00AA?style=for-the-badge&logo=lua&logoColor=white">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1soka&show_icons=true&theme=radical&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=iNeedIt_&show_icons=true&theme=radical&hide_border=true">
 </p>
