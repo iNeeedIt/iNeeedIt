@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/iNeeedIt/iNeeedIt/main/banner.svg" width="100%">
 </p>
 
 <p align="center">
@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iNeedIt_&show_icons=true&theme=radical&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=iNeeedIt&show_icons=true&theme=radical&hide_border=true">
 </p>
