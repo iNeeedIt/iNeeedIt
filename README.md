@@ -5,7 +5,7 @@
 <p align="center">
   <code>Software Engineer</code> · <code>minecraft dev</code> · <code>LunarGens 🌙</code>
   <br>
-  <i>// understand to better protect</i>
+  <i>// look mom, i'm here very top of arasaka tower</i>
 </p>
 
 <h3 align="center">— Tech Stack —</h3>
