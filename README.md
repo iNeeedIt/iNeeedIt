@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <code>low-level</code> · <code>systems</code> · <code>embedded</code>
+  <code>Software Engineer</code> · <code>minecraft dev</code> · <code>LunarGens 🌙</code>
   <br>
   <i>// understand to better protect</i>
 </p>
