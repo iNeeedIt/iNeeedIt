@@ -31,5 +31,6 @@
 <h4 align="center">Applications</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=photoshop&logoColor=white">
 </p>
 
