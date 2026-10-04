@@ -20,6 +20,9 @@
 <h4 align="center">Web</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/REACT-0A1560?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-0A1560?style=for-the-badge&logo=html&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-0A1560?style=for-the-badge&logo=css&logoColor=white">
+  <i>(even if i know html and css isn't real languages)</i>
 </p>
 
 <h4 align="center">Currently learning</h4>
