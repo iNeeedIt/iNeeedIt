@@ -17,15 +17,7 @@
   <br>
   <img src="https://img.shields.io/badge/JAVASCRIPT-FF00AA?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/LUA-0A1560?style=for-the-badge&logo=lua&logoColor=white">
-</p>
-
-<h4 align="center">Web</h4>
-<p align="center">
   <img src="https://img.shields.io/badge/REACT-0A1560?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-FF00AA?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSS-0A1560?style=for-the-badge&logo=css3&logoColor=white">
-  <br>
-  <sub><i>(even if i know html and css isn't real languages)</i></sub>
 </p>
 
 <h4 align="center">Currently learning</h4>
@@ -35,3 +27,9 @@
   <br>
   <img src="https://img.shields.io/badge/POSTGRES-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
+
+<h4 align="center">Applications</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+</p>
+
