@@ -12,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=iNeeedIt&color=FF00AA&style=for-the-badge&label=VISITS">
 </p>
 
-<!-- SKILLS -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/iNeeedIt/iNeeedIt/main/banner_skills.png" width="100%">
 </p>
@@ -37,7 +36,6 @@
   <img src="https://img.shields.io/badge/NODE.JS-0A1560?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </p>
 
-<!-- STATS -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/iNeeedIt/iNeeedIt/main/banner_stats.png" width="100%">
 </p>
@@ -49,13 +47,4 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=iNeeedIt&theme=radical&hide_border=true">
-</p>
-
-<!-- TROPHIES -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iNeeedIt/iNeeedIt/main/banner_trophies.png" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iNeeedIt&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8">
 </p>
