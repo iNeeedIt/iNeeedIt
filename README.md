@@ -8,15 +8,6 @@
   <i>// look mom, i'm here very top of arasaka tower</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iNeeedIt&color=FF00AA&style=for-the-badge&label=VISITS">
-</p>
-
-<!-- SKILLS -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iNeeedIt/iNeeedIt/main/banner_skills.png" width="100%">
-</p>
-
 <h4 align="center">Languages</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/C-FF00AA?style=for-the-badge&logo=c&logoColor=white">
@@ -35,17 +26,4 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JAVASCRIPT-FF00AA?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/NODE.JS-0A1560?style=for-the-badge&logo=nodedotjs&logoColor=white">
-</p>
-
-<!-- STATS -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iNeeedIt/iNeeedIt/main/banner_stats.png" width="100%">
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iNeeedIt&show_icons=true&theme=radical&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iNeeedIt&theme=radical&hide_border=true">
 </p>
