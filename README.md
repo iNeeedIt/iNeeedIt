@@ -28,9 +28,4 @@
   <img src="https://img.shields.io/badge/POSTGRES-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-<h4 align="center">Applications</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=adobe&logoColor=white">
-</p>
 
