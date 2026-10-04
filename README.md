@@ -9,7 +9,5 @@
 </p>
 
 <p align="center">
-  <a href="https://ineeedit.github.io/iNeeedIt/">
-    <img src="https://img.shields.io/badge/%E2%96%B6_OPEN_THE_SHELL-B794FF?style=for-the-badge&logo=gnubash&logoColor=white">
-  </a>
+  <img src="./shell.svg">
 </p>
