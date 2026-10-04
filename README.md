@@ -31,6 +31,5 @@
 <h4 align="center">Currently learning</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/NODE.JS-0A1560?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/SWIFT-FF00AA?style=for-the-badge&logo=swift&logoColor=white">
 </p>
