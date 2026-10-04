@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <code>Software Engineer</code> · <code>minecraft dev</code> · <code>LunarGens 🌙</code>
+  <code>Software Engineer</code> · <code>minecraft dev</code> · <code>HelloWorld("print")</code>
   <br>
   <i>// look mom, i'm here very top of arasaka tower</i>
 </p>
