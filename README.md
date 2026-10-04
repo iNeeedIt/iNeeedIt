@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iNeeedIt/iNeeedIt/main/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/iNeeedIt/iNeeedIt/main/banner_forest.svg" width="100%">
 </p>
 
 <p align="center">
