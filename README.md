@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/C++-0A1560?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/PYTHON-FF00AA?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-0A1560?style=for-the-badge&logo=openjdk&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/LUA-FF00AA?style=for-the-badge&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/SWIFT-FF00AA?style=for-the-badge&logo=lua&logoColor=white">
 </p>
